@@ -22,7 +22,7 @@ How to Run
 Clone the repository, run flutter pub get to install dependencies, and then run flutter run to launch the application on an Android device or emulator. To access the Official Government Portal inside the app, open the navigation menu and tap Official Portal, then enter the access code MEDAN2025.
 
 # Authors
-This application was developed by Mahmud Lawan, Setyadi, and Alena Aurelia Rohiman, under the supervision of Mhd. Basri, S.Si, M.Kom, at Universitas Muhammadiyah Sumatera Utara, Medan, Indonesia.
+This application was developed by Mahmud Lawan, Setyadi, and Radhiya Khalisat Hasibuan, under the supervision of Mhd. Basri, S.Si, M.Kom, at Universitas Muhammadiyah Sumatera Utara, Medan, Indonesia.
 
 Copyright
 © 2025 Medan Smart Report. Developed for the Mobile Application Development Competition. City of Medan, Sumatera Utara, Indonesia.
